@@ -1,5 +1,5 @@
 <h1>Ricardo Fonseca Zabir</h1>
-<h2> Full stack Developer and Data Scientist student </h2>
+<h2> Full stack Developer and Data Science & AI student </h2>
 <span> Repository for keeping personal projects and programming training exercises </span>
 <br>
 <h3>Programming Languages </h3>
