@@ -1,5 +1,5 @@
 <h1>Ricardo Fonseca Zabir</h1>
-<h2> Full stack Developer and Data Science & AI student </h2>
+<h2> Full stack Developer and Software Engineering student </h2>
 <span> Repository for keeping personal projects and programming training exercises </span>
 <br>
 <h3>Programming Languages </h3>
@@ -24,7 +24,7 @@
 </ul>
 <h3> Education </h3>
 <h5> 2021-2022 Web Development course at <a href="https://www.betrybe.com">Trybe</a> </h5>
-<h5> 2020- Studying Data Science & AI at <a href="https://www.pucrs.br">PUCRS</a> </h5>
+<h5> 2020- Studying Software Engineering at <a href="https://www.pucrs.br">PUCRS</a> </h5>
 <h3> Professional experience </h3>
 <h5> 2022- Dell IT Academy Intern </h5>
 <h3> Github Stats </h3>
