@@ -14,6 +14,7 @@
   <li> React </li>
   <li> Vue </li>
   <li> Sequelize </li>
+  <li> Selenium </li>
   <li> Pandas </li>
   <li> Numpy </li>
  </ul>
