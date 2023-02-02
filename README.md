@@ -13,15 +13,13 @@
 <ul>
   <li> React </li>
   <li> Vue </li>
-  <li> Sequelize </li>
   <li> Selenium </li>
-  <li> Pandas </li>
-  <li> Numpy </li>
  </ul>
-<h3> DB </h3>
+<h3> DB & DevOps</h3>
 <ul>
   <li> mySQL </li>
   <li> mongoDB </li>
+  <li> Docker </li>
 </ul>
 <h3> Education </h3>
 <h5> 2021-2022 Web Development course at <a href="https://www.betrybe.com">Trybe</a> </h5>
